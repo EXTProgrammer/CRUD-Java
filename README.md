@@ -8,7 +8,7 @@ O objetivo é praticar conceitos de desenvolvimento backend, APIs REST e persist
 
 🚀 Tecnologias utilizadas
 
-- Java 17+
+- Java 24
 
 - Spring Boot
 
