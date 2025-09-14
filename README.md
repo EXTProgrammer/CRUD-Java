@@ -57,26 +57,3 @@ Uso do H2 Database em memória
 Testes de endpoints com Postman
 
 Boas práticas de organização de código e versionamento no GitHub
-
----
-
-▶️ Como executar o projeto
-
-Clone este repositório:
-
-git clone https://github.com/SEU-USUARIO/seu-repositorio.git
-
-
-Acesse a pasta do projeto:
-
-cd seu-repositorio
-
-
-Execute a aplicação:
-
-./mvnw spring-boot:run
-
-
-Acesse a API em:
-
-http://localhost:8080/user
