@@ -57,3 +57,22 @@ Uso do H2 Database em memória
 Testes de endpoints com Postman
 
 Boas práticas de organização de código e versionamento no GitHub
+
+---
+
+✅ Demonstração
+
+# Create
+![Postman- criar usuário](https://github.com/EXTProgrammer/CRUD-Java/blob/main/postman_post.png)
+![H2- criar usuário](https://github.com/EXTProgrammer/CRUD-Java/blob/main/h2_insert.png)
+
+# Read
+![Postman - leitura](https://github.com/EXTProgrammer/CRUD-Java/blob/main/postman_get.png)
+
+# Update
+![Postman - atualizar](https://github.com/EXTProgrammer/CRUD-Java/blob/main/postman_put.png)
+![H2 - atualizar](https://github.com/EXTProgrammer/CRUD-Java/blob/main/h2_put.png)
+
+# Delete
+![Postman - deletar](https://github.com/EXTProgrammer/CRUD-Java/blob/main/postman_del.png)
+![Postman - deletar](https://github.com/EXTProgrammer/CRUD-Java/blob/main/h2_del.png)
